@@ -5,6 +5,11 @@ html, body
     padding:0;
 }
 
+body {
+background: rgb(219,231,63);
+background: radial-gradient(circle, rgba(219,231,63,1) 90%, rgba(227,132,14,1) 100%);
+}
+
 div {
     position:relative;
     height: 100%;
